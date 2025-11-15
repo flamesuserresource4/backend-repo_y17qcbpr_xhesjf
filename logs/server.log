@@ -1,17 +1,17 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [152] using StatReload
-INFO:     Started server process [154]
+INFO:     Started reloader process [217] using StatReload
+INFO:     Started server process [219]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:49400 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:57018 - "GET /api/collections HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57002 - "GET /api/profile HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57038 - "GET /api/experience HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57018 - "GET /api/collections HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57024 - "GET /api/projects HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57002 - "GET /api/profile HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57026 - "GET /api/services HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57024 - "GET /api/projects HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57026 - "GET /api/services HTTP/1.1" 200 OK
-INFO:     172.20.0.1:57038 - "GET /api/experience HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35228 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:47942 - "GET /api/profile HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47940 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47994 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48006 - "GET /api/projects HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47942 - "GET /api/profile HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47994 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47964 - "GET /api/experience HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47978 - "GET /api/collections HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48006 - "GET /api/collections HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47978 - "GET /api/experience HTTP/1.1" 200 OK
